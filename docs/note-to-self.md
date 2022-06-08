@@ -1,9 +1,5 @@
-# Title
-
-# Notes
-
-# Problems
-
+Surround $$ for Markdown Katex Block
+Surround $ for Markdown Katex Inline
 
 $\sqrt{3x-1}+(1+x)^2$
 
